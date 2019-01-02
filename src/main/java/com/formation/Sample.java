@@ -11,6 +11,6 @@ public class Sample {
    * @return Boolean
    */
   public final Boolean shouldBeWarning() {
-	return null;
+    return null;
   }
 }
